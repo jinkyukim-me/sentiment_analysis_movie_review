@@ -1,2 +1,2 @@
-# Sentiment analysys
+# Sentiment analysis
 ## movie review
