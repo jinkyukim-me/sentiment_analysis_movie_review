@@ -32,7 +32,7 @@ Dataset used in this problem is [NAVER Review Dataset](https://github.com/e9t/ns
 <p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/wordcloud.JPG" width="100%"></p>
 
 ### Result
-According to result data, top accuracy has shown on Train Step 8.
+According to result data, top accuracy has shown on Train Step 8. (87.59%)
 <p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/training1.JPG" width="100%"></p>
 <p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/training2.JPG" width="100%"></p>
 
