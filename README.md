@@ -20,11 +20,11 @@ Dataset used in this problem is [NAVER Review Dataset](https://github.com/e9t/ns
 * numpy
 * wordcloud
 
-<p><img src="img\graph_word.jpg" width="100%"></p>
-<p><img src="img\lexical_dispersion_plot.jpg" width="100%"></p>
-<p><img src="img\wordcloud.jpg" width="100%"></p>
-<p><img src="img\training1.jpg" width="100%"></p>
-<p><img src="img\training2.jpg" width="100%"></p>
+<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/graph_word.JPG" width="100%"></p>
+<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/lexical_dispersion_plot.JPG" width="100%"></p>
+<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/wordcloud.JPG" width="100%"></p>
+<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/training1.JPG" width="100%"></p>
+<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/training2.JPG" width="100%"></p>
 
 ## Conclusion
 On the model and summarizing the estimated performance. We can see that this model achieves an accuracy of 87.59%. Again, there is a lot of opportunity for further optimization, such as the use of deeper and/or larger layers.
