@@ -1,4 +1,4 @@
-# NLP - SENTIMENT ANALYSIS ON NAVER MOVIE DATASET
+# SENTIMENT ANALYSIS ON NAVER MOVIE DATASET
 
 ## Overview
 Sentiment Analysis is used to discover people’s opinions, emotions and feelings about a product or service.
