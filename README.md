@@ -36,5 +36,8 @@ According to result data, top accuracy has shown on Train Step 8. (87.59%)
 <p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/training1.JPG" width="100%"></p>
 <p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/training2.JPG" width="100%"></p>
 
+### Test
+<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/comment_test.JPG" width="100%"></p>
+
 ## Conclusion
 On the model and summarizing the estimated performance. We can see that this model achieves an accuracy of 87.59%. Again, there is a lot of opportunity for further optimization, such as the use of deeper and/or larger layers.
