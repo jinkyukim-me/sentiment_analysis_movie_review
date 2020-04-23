@@ -23,21 +23,21 @@ Dataset used in this problem is [NAVER Review Dataset](https://github.com/e9t/ns
 ## Data Exploration
 
 ### Words
-<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/graph_word.JPG" width="100%"></p>
+<p><img src="https://imagizer.imageshack.com/img922/3107/rKYt4J.jpg" width="100%"></p>
 
 ### Lexical Dispersion Plot
-<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/lexical_dispersion_plot.JPG" width="100%"></p>
+<p><img src="https://imagizer.imageshack.com/img923/7671/rDu5lf.jpg" width="100%"></p>
 
 ### Wordcloud
-<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/wordcloud.JPG" width="100%"></p>
+<p><img src="https://imagizer.imageshack.com/img922/6622/7z4d51.jpg" width="100%"></p>
 
 ## Result
 According to result data, top accuracy has shown on Train Step 8. (87.59%)
-<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/training1.JPG" width="100%"></p>
-<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/training2.JPG" width="100%"></p>
+<p><img src="https://imagizer.imageshack.com/img921/301/bPXne0.jpg" width="100%"></p>
+<p><img src="https://imagizer.imageshack.com/img922/6334/XCtOnz.jpg" width="100%"></p>
 
 ## Test
-<p><img src="https://github.com/jinkyukim-me/sentiment_analysis_movie_review/blob/master/img/comment_test.JPG" width="100%"></p>
+<p><img src="https://imagizer.imageshack.com/img922/7098/2QcngR.jpg" width="100%"></p>
 
 ## Conclusion
 On the model and summarizing the estimated performance. We can see that this model achieves an accuracy of 87.59%. Again, there is a lot of opportunity for further optimization, such as the use of deeper and/or larger layers.
